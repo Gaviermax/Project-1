@@ -1,0 +1,28 @@
+.btn-outline-purple{
+    border-color: #561A8B;
+}
+.btn-outline-purple:hover{
+    background-color: #561A8B;
+    color: white;
+}
+.text-purple{
+    color: #561A8B;
+}
+.text-purple:hover{
+    color: #561A8B;
+}
+.text-purple:focus{
+    /* background-color: red; */
+    color: #561A8B;
+}
+.search-bar:active{
+    border-color: #561A8B;
+}
+.nav-link:hover{
+    scale: 1.4;
+}
+
+.dropdown-item:active{
+    background-color: #561A8B;
+    color: white;
+}
