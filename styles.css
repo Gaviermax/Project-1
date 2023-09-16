@@ -44,3 +44,6 @@
     color: white !important;
     scale: 1.1;
 }
+.author-info:hover{
+    color: #561A8B !important;
+}
