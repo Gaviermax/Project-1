@@ -30,6 +30,12 @@
 
 .nav-link:hover{
     scale: 1.1;
+    border-bottom: 5px solid #561A8B;
+}
+.nav-link:active{
+    /* background-color: #561A8B; */
+    /* color: white; */
+    border-bottom: 5px solid #561A8B;
 }
 
 .dropdown-item:active{
